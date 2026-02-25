@@ -94,8 +94,23 @@ function App() {
         </div>
       </section>
 
+      {/* ===== VIDEO ===== */}
+      <section className="video" id="que-es">
+        <div className="container">
+          <div className="video__wrapper reveal">
+            <iframe
+              src="https://player.vimeo.com/video/1168245282?h=0&title=0&byline=0&portrait=0"
+              frameBorder="0"
+              allow="autoplay; fullscreen; picture-in-picture"
+              allowFullScreen
+              title="Bootcamp de Resultados"
+            />
+          </div>
+        </div>
+      </section>
+
       {/* ===== OPENING STATEMENT ===== */}
-      <section className="statement" id="que-es">
+      <section className="statement">
         <div className="container">
           <p className="statement__text reveal">
             La mayor&iacute;a seguir&aacute; exactamente<br />
