@@ -30,23 +30,17 @@ function App() {
       <section className="hero">
         <div className="hero__slash" />
         <div className="container">
-          <img
-            src="/img/logo-full.png"
-            alt="Bootcamp de Resultados"
-            className="hero__logo"
-          />
-
           <div className="hero__tagline">
             Vende &middot; Cierra &middot; Monetiza
           </div>
 
           <h1 className="hero__title">
-            4 dias que van<br />
+            4 d&iacute;as que van<br />
             a cambiar tu <span>nivel</span>
           </h1>
 
           <p className="hero__subtitle">
-            Formacion intensiva en una villa privada en Busot, Alicante.
+            Formaci&oacute;n intensiva en una villa privada en Busot, Alicante.
             No vienes a escuchar. Vienes a entrenar la habilidad que
             convierte conversaciones en ingresos reales.
           </p>
@@ -57,7 +51,7 @@ function App() {
               <span className="btn__arrow">&rarr;</span>
             </a>
             <a href="#que-es" className="btn btn--outline">
-              Saber mas
+              Saber m&aacute;s
             </a>
           </div>
 
@@ -68,11 +62,11 @@ function App() {
             </div>
             <div className="hero__meta-item">
               <span className="hero__meta-value">30</span>
-              <span className="hero__meta-label">Plazas max.</span>
+              <span className="hero__meta-label">Plazas m&aacute;x.</span>
             </div>
             <div className="hero__meta-item">
               <span className="hero__meta-value">100%</span>
-              <span className="hero__meta-label">Practico</span>
+              <span className="hero__meta-label">Pr&aacute;ctico</span>
             </div>
           </div>
         </div>
@@ -94,7 +88,7 @@ function App() {
         <div className="poster__content">
           <div className="container">
             <p className="poster__text reveal">
-              <span>Espana</span> &middot; 23-26 Febrero 2026
+              <span>Espa&ntilde;a</span> &middot; 23-26 Febrero 2026
             </p>
           </div>
         </div>
@@ -104,11 +98,11 @@ function App() {
       <section className="statement" id="que-es">
         <div className="container">
           <p className="statement__text reveal">
-            La mayoria seguira exactamente<br />
+            La mayor&iacute;a seguir&aacute; exactamente<br />
             igual dentro de <span>12 meses.</span>
           </p>
           <p className="statement__sub reveal reveal-delay-2">
-            Mismo trabajo. Mismos ingresos. Mismas excusas. Mismos suenos pendientes.
+            Mismo trabajo. Mismos ingresos. Mismas excusas. Mismos sue&ntilde;os pendientes.
           </p>
         </div>
       </section>
@@ -118,15 +112,15 @@ function App() {
         <div className="container">
           <div className="pain__grid">
             <div className="pain__left">
-              <p className="eyebrow reveal">La verdad incomoda</p>
+              <p className="eyebrow reveal">La verdad inc&oacute;moda</p>
               <h2 className="pain__heading reveal reveal-delay-1">
                 No es que no tengas <span>capacidad.</span><br />
-                Es que nadie te ha ensenado a generar ingresos <span>con metodo.</span>
+                Es que nadie te ha ense&ntilde;ado a generar ingresos <span>con m&eacute;todo.</span>
               </h2>
               <p className="pain__desc reveal reveal-delay-2">
                 Sin esa habilidad, tu vida depende de factores que no controlas.
-                Y eso no cambia con motivacion. No cambia leyendo libros.
-                No cambia viendo videos.
+                Y eso no cambia con motivaci&oacute;n. No cambia leyendo libros.
+                No cambia viendo v&iacute;deos.
               </p>
             </div>
 
@@ -134,31 +128,31 @@ function App() {
               <li className="pain__list-item reveal">
                 <span className="pain__list-icon">&times;</span>
                 <span className="pain__list-text">
-                  Dependes de terceros para generar ingresos. Tu economia esta en manos de otros.
+                  Dependes de terceros para generar ingresos. Tu econom&iacute;a est&aacute; en manos de otros.
                 </span>
               </li>
               <li className="pain__list-item reveal">
                 <span className="pain__list-icon">&times;</span>
                 <span className="pain__list-text">
-                  Dependes del mercado y del momento. Cuando las cosas cambian, tu sufres las consecuencias.
+                  Dependes del mercado y del momento. Cuando las cosas cambian, t&uacute; sufres las consecuencias.
                 </span>
               </li>
               <li className="pain__list-item reveal">
                 <span className="pain__list-icon">&times;</span>
                 <span className="pain__list-text">
-                  Tu vida puede estar &ldquo;bien&rdquo;, pero sabes que no esta al nivel que deseas.
+                  Tu vida puede estar &ldquo;bien&rdquo;, pero sabes que no est&aacute; al nivel que deseas.
                 </span>
               </li>
               <li className="pain__list-item reveal">
                 <span className="pain__list-icon">&times;</span>
                 <span className="pain__list-text">
-                  No tienes el margen economico que te daria tranquilidad. Ni el tiempo que imaginabas.
+                  No tienes el margen econ&oacute;mico que te dar&iacute;a tranquilidad. Ni el tiempo que imaginabas.
                 </span>
               </li>
               <li className="pain__list-item reveal">
                 <span className="pain__list-icon">&times;</span>
                 <span className="pain__list-text">
-                  No tienes el entorno que te impulse hacia arriba. Sabes que podrias estar en otro lugar.
+                  No tienes el entorno que te impulse hacia arriba. Sabes que podr&iacute;as estar en otro lugar.
                 </span>
               </li>
             </ul>
@@ -171,10 +165,10 @@ function App() {
         <div className="container">
           <p className="statement__text reveal">
             La libertad financiera empieza<br />
-            cuando sabes <span>como generar dinero.</span>
+            cuando sabes <span>c&oacute;mo generar dinero.</span>
           </p>
           <p className="statement__sub reveal reveal-delay-2">
-            Y eso es entrenable. Aqui se entrena.
+            Y eso es entrenable. Aqu&iacute; se entrena.
           </p>
         </div>
       </section>
@@ -183,7 +177,7 @@ function App() {
       <section className="solution">
         <div className="container">
           <div className="solution__header">
-            <p className="eyebrow reveal">Durante 4 dias</p>
+            <p className="eyebrow reveal">Durante 4 d&iacute;as</p>
             <h2 className="solution__title reveal reveal-delay-1">
               Esto no es un evento para escuchar.<br />
               Es un evento para <span>hacer.</span>
@@ -195,9 +189,9 @@ function App() {
               <span className="solution__card-number">01</span>
               <h3 className="solution__card-title">Llamadas Reales</h3>
               <p className="solution__card-text">
-                Haras llamadas reales a tus propios contactos.
-                Nada de simulaciones. Practica con situaciones
-                y objeciones reales desde el primer dia.
+                Har&aacute;s llamadas reales a tus propios contactos.
+                Nada de simulaciones. Pr&aacute;ctica con situaciones
+                y objeciones reales desde el primer d&iacute;a.
               </p>
             </div>
 
@@ -205,18 +199,18 @@ function App() {
               <span className="solution__card-number">02</span>
               <h3 className="solution__card-title">Estructura de Venta</h3>
               <p className="solution__card-text">
-                Aprenderas a estructurar conversaciones de venta
-                que convierten. Un metodo probado para transformar
+                Aprender&aacute;s a estructurar conversaciones de venta
+                que convierten. Un m&eacute;todo probado para transformar
                 conversaciones en ingresos reales.
               </p>
             </div>
 
             <div className="solution__card reveal">
               <span className="solution__card-number">03</span>
-              <h3 className="solution__card-title">Acompanamiento Directo</h3>
+              <h3 className="solution__card-title">Acompa&ntilde;amiento Directo</h3>
               <p className="solution__card-text">
-                Mentoria directa y dinamicas en vivo hasta que lo
-                hagas con seguridad. No sales con teoria.
+                Mentor&iacute;a directa y din&aacute;micas en vivo hasta que lo
+                hagas con seguridad. No sales con teor&iacute;a.
                 Sales con capacidad.
               </p>
             </div>
@@ -231,28 +225,28 @@ function App() {
             <div className="experience__visual reveal">
               <img
                 src="/img/profile.png"
-                alt="Bootcamp de Resultados — Espana 2026"
+                alt="Bootcamp de Resultados — España 2026"
                 className="experience__visual-img"
               />
               <div className="experience__visual-overlay" />
-              <div className="experience__visual-badge">4 Dias Inmersion</div>
+              <div className="experience__visual-badge">4 D&iacute;as Inmersi&oacute;n</div>
             </div>
 
             <div className="experience__content">
               <p className="eyebrow reveal">El entorno importa</p>
               <h2 className="experience__title reveal reveal-delay-1">
                 Villa privada.<br />
-                <span>Convivencia estrategica.</span>
+                <span>Convivencia estrat&eacute;gica.</span>
               </h2>
               <p className="experience__text reveal reveal-delay-2">
                 Cuando te rodeas de personas que quieren crecer, tus
-                estandares cambian. Cuando cambian tus estandares,
+                est&aacute;ndares cambian. Cuando cambian tus est&aacute;ndares,
                 cambia tu nivel.
               </p>
 
               <div className="experience__features reveal reveal-delay-3">
                 <div className="experience__feature">
-                  4 dias intensivos
+                  4 d&iacute;as intensivos
                 </div>
                 <div className="experience__feature">
                   Habitaciones compartidas
@@ -277,19 +271,19 @@ function App() {
               <div className="mentor__avatar-inner">
                 <img
                   src="/img/icon-red.png"
-                  alt="Frank Garcia"
+                  alt="Frank García"
                   className="mentor__avatar-icon"
                 />
-                <span className="mentor__avatar-name-text">Frank Garcia</span>
+                <span className="mentor__avatar-name-text">Frank Garc&iacute;a</span>
               </div>
             </div>
 
             <div className="mentor__content">
               <p className="eyebrow reveal">Tu mentor</p>
-              <h2 className="mentor__name reveal reveal-delay-1">Frank Garcia</h2>
+              <h2 className="mentor__name reveal reveal-delay-1">Frank Garc&iacute;a</h2>
               <p className="mentor__bio reveal reveal-delay-2">
-                Mas de 30 anos formando vendedores, emprendedores y networkers.
-                Mas de 200.000 personas han pasado por sus talleres a lo largo
+                M&aacute;s de 30 a&ntilde;os formando vendedores, emprendedores y networkers.
+                M&aacute;s de 200.000 personas han pasado por sus talleres a lo largo
                 de su trayectoria. Su enfoque no es motivarte. Es entrenarte
                 hasta que lo hagas bien.
               </p>
@@ -297,7 +291,7 @@ function App() {
               <div className="mentor__stats reveal reveal-delay-3">
                 <div className="mentor__stat">
                   <div className="mentor__stat-value">30+</div>
-                  <div className="mentor__stat-label">Anos exp.</div>
+                  <div className="mentor__stat-label">A&ntilde;os exp.</div>
                 </div>
                 <div className="mentor__stat">
                   <div className="mentor__stat-value">200K+</div>
@@ -305,12 +299,12 @@ function App() {
                 </div>
                 <div className="mentor__stat">
                   <div className="mentor__stat-value">&infin;</div>
-                  <div className="mentor__stat-label">Practica</div>
+                  <div className="mentor__stat-label">Pr&aacute;ctica</div>
                 </div>
               </div>
 
               <blockquote className="mentor__quote reveal reveal-delay-4">
-                &ldquo;No estoy aqui para motivarte. Estoy aqui para
+                &ldquo;No estoy aqu&iacute; para motivarte. Estoy aqu&iacute; para
                 entrenarte hasta que lo hagas bien.&rdquo;
               </blockquote>
             </div>
@@ -323,7 +317,7 @@ function App() {
         <div className="container">
           <div className="audience__header">
             <h2 className="audience__title reveal">
-              <span>Es</span> para ti?
+              &iquest;<span>Es</span> para ti?
             </h2>
           </div>
 
@@ -370,15 +364,15 @@ function App() {
               <ul className="audience__items">
                 <li className="audience__item">
                   <span className="audience__item-marker--no">&rsaquo;</span>
-                  Buscas dinero rapido sin hacer llamadas.
+                  Buscas dinero r&aacute;pido sin hacer llamadas.
                 </li>
                 <li className="audience__item">
                   <span className="audience__item-marker--no">&rsaquo;</span>
-                  No estas dispuesto a salir de tu zona comoda.
+                  No est&aacute;s dispuesto a salir de tu zona c&oacute;moda.
                 </li>
                 <li className="audience__item">
                   <span className="audience__item-marker--no">&rsaquo;</span>
-                  No quieres trabajar intensamente durante 4 dias.
+                  No quieres trabajar intensamente durante 4 d&iacute;as.
                 </li>
               </ul>
             </div>
@@ -390,7 +384,7 @@ function App() {
       <section className="pricing">
         <div className="container">
           <div className="pricing__container">
-            <p className="eyebrow reveal">Inversion</p>
+            <p className="eyebrow reveal">Inversi&oacute;n</p>
             <h2 className="pricing__title reveal reveal-delay-1">
               Hablemos claro.
             </h2>
@@ -400,30 +394,30 @@ function App() {
               <div className="pricing__amount">
                 1.997<span className="pricing__amount-currency">&euro;</span>
               </div>
-              <div className="pricing__edition">Esta edicion — Plazas limitadas</div>
+              <div className="pricing__edition">Esta edici&oacute;n &mdash; Plazas limitadas</div>
 
               <hr className="divider divider--center" />
 
               <ul className="pricing__includes">
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
-                  4 dias de formacion intensiva practica
+                  4 d&iacute;as de formaci&oacute;n intensiva pr&aacute;ctica
                 </li>
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
-                  Mentoria directa con Frank Garcia
+                  Mentor&iacute;a directa con Frank Garc&iacute;a
                 </li>
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
-                  Dinamicas en vivo y contexto real de aplicacion
+                  Din&aacute;micas en vivo y contexto real de aplicaci&oacute;n
                 </li>
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
-                  Acceso a oportunidades estrategicas del ecosistema
+                  Acceso a oportunidades estrat&eacute;gicas del ecosistema
                 </li>
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
-                  NFT de participacion en villa tokenizada incluido
+                  NFT de participaci&oacute;n en villa tokenizada incluido
                 </li>
                 <li className="pricing__includes-item">
                   <span className="pricing__includes-check"><CheckIcon /></span>
@@ -438,7 +432,7 @@ function App() {
 
               <div className="pricing__urgency">
                 <span className="pricing__urgency-dot" />
-                Mas de la mitad de las plazas ya estan asignadas
+                M&aacute;s de la mitad de las plazas ya est&aacute;n asignadas
               </div>
             </div>
           </div>
@@ -449,9 +443,9 @@ function App() {
       <section className="process" id="aplicar">
         <div className="container">
           <div className="process__header">
-            <p className="eyebrow reveal">Como funciona</p>
+            <p className="eyebrow reveal">C&oacute;mo funciona</p>
             <h2 className="process__title reveal reveal-delay-1">
-              El proceso de <span>aplicacion</span>
+              El proceso de <span>aplicaci&oacute;n</span>
             </h2>
           </div>
 
@@ -460,7 +454,7 @@ function App() {
               <div className="process__step-number">I</div>
               <h3 className="process__step-title">Aplica</h3>
               <p className="process__step-text">
-                Completa el cuestionario de precalificacion.
+                Completa el cuestionario de precalificaci&oacute;n.
                 No puedes comprar directamente.
               </p>
               <div className="process__step-connector" />
@@ -468,9 +462,9 @@ function App() {
 
             <div className="process__step reveal">
               <div className="process__step-number">II</div>
-              <h3 className="process__step-title">Validacion</h3>
+              <h3 className="process__step-title">Validaci&oacute;n</h3>
               <p className="process__step-text">
-                Si tu perfil encaja, recibiras contacto por
+                Si tu perfil encaja, recibir&aacute;s contacto por
                 WhatsApp para los siguientes pasos.
               </p>
               <div className="process__step-connector" />
@@ -480,8 +474,8 @@ function App() {
               <div className="process__step-number">III</div>
               <h3 className="process__step-title">Confirma</h3>
               <p className="process__step-text">
-                Reserva tu plaza y preparate para 4 dias
-                que van a cambiar tu direccion.
+                Reserva tu plaza y prep&aacute;rate para 4 d&iacute;as
+                que van a cambiar tu direcci&oacute;n.
               </p>
             </div>
           </div>
@@ -492,17 +486,17 @@ function App() {
       <section className="final-cta">
         <div className="container">
           <img
-            src="/img/icon-red.png"
-            alt=""
+            src="/img/logo-white.png"
+            alt="Bootcamp de Resultados"
             className="final-cta__logo reveal"
           />
           <h2 className="final-cta__title reveal reveal-delay-1">
             Si no haces nada,<br />
-            todo seguira <span>igual.</span>
+            todo seguir&aacute; <span>igual.</span>
           </h2>
           <p className="final-cta__subtitle reveal reveal-delay-2">
-            Si decides actuar, al menos habras cambiado la direccion.
-            La decision es tuya.
+            Si decides actuar, al menos habr&aacute;s cambiado la direcci&oacute;n.
+            La decisi&oacute;n es tuya.
           </p>
           <div className="final-cta__btn-wrap reveal reveal-delay-3">
             <a href={CTA_URL} className="btn btn--primary">
@@ -512,7 +506,7 @@ function App() {
           </div>
           <p className="final-cta__disclaimer reveal reveal-delay-4">
             No hay cancelaciones ni reembolsos. Es una experiencia inmersiva
-            disenada para personas comprometidas.
+            dise&ntilde;ada para personas comprometidas.
           </p>
         </div>
       </section>
@@ -522,12 +516,12 @@ function App() {
         <div className="container">
           <div className="footer__inner">
             <img
-              src="/img/logo-full.png"
+              src="/img/logo-white.png"
               alt="Bootcamp de Resultados"
               className="footer__logo"
             />
             <p className="footer__text">
-              Bootcamp de Resultados &mdash; Frank Garcia &copy; {new Date().getFullYear()}
+              Bootcamp de Resultados &mdash; Frank Garc&iacute;a &copy; {new Date().getFullYear()}
             </p>
           </div>
         </div>
@@ -537,7 +531,7 @@ function App() {
       <div className={`sticky-bar ${stickyVisible ? 'sticky-bar--visible' : ''}`}>
         <div className="sticky-bar__inner">
           <p className="sticky-bar__text">
-            <strong>30 plazas</strong> &mdash; Mas de la mitad asignadas
+            <strong>30 plazas</strong> &mdash; M&aacute;s de la mitad asignadas
           </p>
           <a href={CTA_URL} className="btn btn--primary">
             Aplicar ahora

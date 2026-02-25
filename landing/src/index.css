@@ -170,13 +170,6 @@ a {
   pointer-events: none;
 }
 
-.hero__logo {
-  max-width: 420px;
-  margin-bottom: 40px;
-  opacity: 0;
-  animation: fadeSlideUp 1s 0.2s cubic-bezier(0.16, 1, 0.3, 1) forwards;
-}
-
 .hero__tagline {
   display: inline-flex;
   align-items: center;
@@ -1340,10 +1333,6 @@ a {
     justify-content: center;
   }
 
-  .hero__logo {
-    max-width: 300px;
-  }
-
   .poster {
     height: clamp(250px, 40vh, 400px);
   }
@@ -1363,7 +1352,4 @@ a {
     gap: 16px;
   }
 
-  .hero__logo {
-    max-width: 260px;
-  }
 }
